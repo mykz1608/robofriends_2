@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
-import CardList from '../containers/CardList';
+import CardList from '../components/CardList';
 // import {robots} from './robots';
-import SearchBox from '../containers/SearchBox'
-import Scroll from '../containers/Scroll';
+import SearchBox from '../components/SearchBox'
+import Scroll from '../components/Scroll';
 import React, {Component} from 'react';
 
 
